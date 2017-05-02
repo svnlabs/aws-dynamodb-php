@@ -26,3 +26,9 @@ whole item.
 
 DynamoDB is more machine-gun than silver bullet. Deploy it wisely.
 
+AWS.PHAR
+Now Download aws-php-sdk Packaged Phar from http://pear.amazonwebservices.com/get/aws.phar
+
+Includ the SDK in your PHP project
+require '/path/to/aws.phar';
+
